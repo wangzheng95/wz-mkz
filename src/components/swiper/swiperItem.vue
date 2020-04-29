@@ -1,0 +1,15 @@
+<template>
+    <div class="swiper-slide">
+      <slot></slot>
+    </div>
+</template>
+
+<script>
+export default {
+  name: 'swiperItem'
+}
+</script>
+
+<style>
+
+</style>
